@@ -17,6 +17,9 @@ class Triangle
       :isosceles
     else 
       :scalene
+      
+    #nested if statements, rly?  should i refactor the above logic somehow?  
+      
   end
   
   def valid_triangle?
