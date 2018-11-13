@@ -18,7 +18,7 @@ class Triangle
     else 
       :scalene
       
-    #nested if statements, rly?  should i refactor the above logic somehow?  
+    #nested if statements, rly?  should refactor in near future  
       
   end
   
